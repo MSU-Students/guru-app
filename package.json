@@ -2,7 +2,7 @@
   "name": "guru-app",
   "version": "0.0.1",
   "description": "A Quasar Framework app",
-  "productName": "Quasar App",
+  "productName": "guruApp",
   "author": "amersarosong <amersarosong@gmail.com>",
   "private": true,
   "scripts": {
