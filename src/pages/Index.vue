@@ -38,10 +38,14 @@ export default class PageIndex extends Vue {
     {
       id: 5,
       content: 'ct5'
+    },
+    {
+      id: 5,
+      content: 'ct5'
     }
   ];
   meta: Meta = {
     totalCount: 1200
   };
-};
+}
 </script>
