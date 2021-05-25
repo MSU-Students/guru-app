@@ -8,13 +8,6 @@ const routes: RouteConfig[] = [
       { path: '', component: () => import('pages/Index.vue') }
     ]
   },
-  // {
-  //   path: '/f/',
-  //   component: () => import('layouts/FacultyLayout.vue'),
-  //   // children: [
-  //   //   { path: 'dashboard', component: }
-  //   // ]
-  // },
 
   // Always leave this as last one,
   // but you can also remove it
