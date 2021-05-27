@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          Faculty dashboard
+          Faculty Dashboard
         </q-toolbar-title>
 
         
