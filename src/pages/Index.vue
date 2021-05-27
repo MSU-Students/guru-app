@@ -39,7 +39,7 @@
         </q-input>
       </q-card-section>
       <q-card-actions>
-        <q-btn class="full-width bg-light-blue-102" label="login" to="/f/"></q-btn>
+        <q-btn class="full-width bg-light-blue-102" label="login" to="/f/dashboard"></q-btn>
       </q-card-actions>
     </q-card>
   </q-page>
